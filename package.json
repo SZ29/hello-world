@@ -1,0 +1,25 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "test run",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SZ29/hello-world.git"
+  },
+  "author": "Sania zafar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SZ29/hello-world/issues"
+  },
+  "homepage": "https://github.com/SZ29/hello-world#readme"
+}
